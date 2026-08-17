@@ -2,8 +2,7 @@
 
  `Desenvolvedor Front-End` 
 
-Me chamo Guilherme Souza Cotrim, tenho 20 anos e sou de São Paulo.
-Conclui um curso técnico de Assistente administrativo e o início de carreira com logística e forte atuação em SAP e Power BI para análise de dados e criação de dashboards. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS), com conhecimentos em Python, JavaScript, HTML/CSS e em busca de aprofundamento em banco de dados. 
+Profissional em início de carreira com sólida base em processos de negócios, formado em Técnico em Assistente Administrativo e com experiência prática na área de Logística. Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS), busco atuar na intersecção entre tecnologia e inteligência de mercado. Especialista no uso de SAP e Power BI (Power Query) para análise de dados e criação de dashboards estratégicos. Possuo conhecimentos sólidos em programação (Python, JavaScript, React, Node.js, HTML/CSS e R) e venho me aprofundando em engenharia de Bancos de Dados.
 
 ---
 
