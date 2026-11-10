@@ -8,12 +8,14 @@ Profissional em início de carreira com sólida base em processos de negócios, 
 
 ### Linguagens e Tecnologias
 
-[![HTML5](https://githubusercontent.com)](https://mozilla.org)
-[![CSS3](https://githubusercontent.com)](https://mozilla.org)
-[![JavaScript](https://githubusercontent.com)](https://mozilla.org)
-[![Python](https://githubusercontent.com)](https://python.org)
-[![React](https://githubusercontent.com)](https://react.dev)
-[![Three.js](https://shields.io)](https://threejs.org)
-[![Vue.js](https://githubusercontent.com)](https://vuejs.org)
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![SAP](https://shields.io)](https://sap.com)
+<p align="left">
+  <img src="https://simpleicons.org" width="32" height="32" alt="HTML5" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="CSS3" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="JavaScript" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="Python" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="React" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="Three.js" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="Vue.js" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="Power BI" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org" width="32" height="32" alt="SAP" />
+</p>
