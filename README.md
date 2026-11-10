@@ -8,12 +8,12 @@ Profissional em início de carreira com sólida base em processos de negócios, 
 
 ### Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Three.js" style="background-color: white; border-radius: 4px;" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Vue.js" />
-</p>
+[![HTML5](https://githubusercontent.com)](https://mozilla.org)
+[![CSS3](https://githubusercontent.com)](https://mozilla.org)
+[![JavaScript](https://githubusercontent.com)](https://mozilla.org)
+[![Python](https://githubusercontent.com)](https://python.org)
+[![React](https://githubusercontent.com)](https://react.dev)
+[![Three.js](https://shields.io)](https://threejs.org)
+[![Vue.js](https://githubusercontent.com)](https://vuejs.org)
+[![Power BI](https://shields.io)](https://microsoft.com)
+[![SAP](https://shields.io)](https://sap.com)
