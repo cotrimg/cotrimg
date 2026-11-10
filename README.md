@@ -8,12 +8,12 @@ Profissional em início de carreira com sólida base em processos de negócios, 
 
 ### Linguagens e Tecnologias
 
-<div id="badges">
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Three.js"/>
-  <img src="https://shields.io" alt="Vue.js"/>
-</div>
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Three.js" style="background-color: white; border-radius: 4px;" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Vue.js" />
+</p>
